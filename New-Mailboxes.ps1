@@ -1,4 +1,4 @@
-#Create bulk mailboxes in onprem
+#Create bulk mailboxes in onprem, Kindly test the script before running it in production.
 
 $Password=Read-Host “Enter Password” –AsSecureString
  
